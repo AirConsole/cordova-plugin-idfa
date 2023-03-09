@@ -6,8 +6,7 @@
   "cordova": {
     "id": "cordova-plugin-idfa",
     "platforms": [
-      "ios",
-      "android"
+      "ios"
     ]
   },
   "repository": {
@@ -29,7 +28,6 @@
     "Advertising ID",
     "analytics",
     "ecosystem:cordova",
-    "cordova-android",
     "cordova-ios"
   ],
   "scripts": {
